@@ -62,12 +62,11 @@
 ## About The Project
 
 <p align="left">
-  <img src="images/0.png" width="729" height="330">
+  <img src="images/0.png">
 </p>
 
 ### Built With
 
-* macOS High Sierra Version 10.13.6
 * Adobe Illustrator Version 23.1 (Logo design)
 * Python 3.8.1
 
