@@ -16,7 +16,7 @@
   <h3 align="center">Random Text Generator using the Lit Ipsum API</h3>
 
   <p align="center">
-    A Python code script that retrieves random text excerpts from the Lit Ipsum API.
+    A Python script that retrieves random text excerpts from the Lit Ipsum API.
     <br />
     <a href="https://github.com/reoyamanaka/lit_ipsum_api"><strong>Explore the docs »</strong></a>
     <br />
